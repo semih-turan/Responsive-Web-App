@@ -1,0 +1,14 @@
+#header {
+    height: 80px;
+    background:transparent;
+}
+
+#header .container  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header .logo img {
+    display: block;
+}
