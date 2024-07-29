@@ -1,0 +1,8 @@
+.container.content { /* container sinifinda content varsa calisir. */
+    width: 980px;
+
+}
+ 
+.lead { /* bootstrap ile gelen font genisligini artiriyoruz*/
+    font-weight: 500;
+}
